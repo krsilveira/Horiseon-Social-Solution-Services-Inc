@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-/* Changed from the hero class selector to the figure element selector. */
+/* Changed from hero class selector to figure element selector. */
 figure {
     height: 800px;
     width: 100%;
@@ -64,7 +64,7 @@ article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    
+
 }
 
 .float-left {
@@ -77,10 +77,15 @@ article {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+/* Consolidate these 3 section values. */
+
+article section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    front-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
 .benefits {
