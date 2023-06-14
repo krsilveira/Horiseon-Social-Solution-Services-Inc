@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# HTML CSS Git: Code Refactor
 
 ## Description:
 
