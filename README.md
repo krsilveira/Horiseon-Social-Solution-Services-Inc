@@ -31,6 +31,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+
+![Uploading krsilveira.github.io_Challenge-1-_.png…]()
+
+
+
 ## Review
 
  Deployed live links 
