@@ -33,8 +33,8 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-You are required to submit the following for review:
+ Deployed live links 
 
-* The URL of the deployed application.
+* The URL of the deployed application (https://krsilveira.github.io/Challenge-1-/)
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository (https://github.com/krsilveira/Challenge-1-)
