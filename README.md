@@ -31,6 +31,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+![alt text](https://github.com/krsilveira/Challenge-1-.git)
+
+
 ## Review
 
  Deployed live links 
