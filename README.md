@@ -31,11 +31,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![Uploading 0AE604CC-4AE0-4413-A02C-CC8631733485.png…]()
-
-![Uploading krsilveira.github.io_Challenge-1-_.png…]()
-
-
 ## Review
 
  Deployed live links 
